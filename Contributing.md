@@ -31,4 +31,4 @@ We encourage you to fork the repository and create a feature branch for your wor
 - Ensure your code is well-commented and readable.
 
 ### Testing
-Before submitting your pull request, please ensure that the code passes all tests (if applicable). You can run the test suite using the following command:
+Before submitting your pull request, please ensure that the code passes all tests (if applicable).
