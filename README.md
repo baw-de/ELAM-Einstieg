@@ -65,7 +65,7 @@ The code was implemented within a research and develoment project at the departm
 
 ## License
 GNU General Public License 3
-
+https://www.gnu.org/licenses/gpl-3.0.html
 
 
 
