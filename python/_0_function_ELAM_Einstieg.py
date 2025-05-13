@@ -28,7 +28,7 @@ along with this program. If not, see <https://www.gnu.org/licenses/>.
 
 Author: Abbas El Hachem
 Institution: Bundesanstalt für Wasserbau | BAW
-Copyright: (c) 2025, Hydraulic Engineering in Inland Areas
+Copyright: (c) 2025, Bundesanstalt für Wasserbau | BAW
 Email: abbas.el_hachem@baw.de
 Version: 0.1
 Last Update: 01.05.2025
