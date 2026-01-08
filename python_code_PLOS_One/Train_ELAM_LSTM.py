@@ -11,12 +11,27 @@ It includes:
 - Training loop with Early Stopping and Learning Rate Scheduling.
 - Comprehensive evaluation metrics (MSE, R2, etc.).
 - Detailed plotting of results (Scatter plots, Residuals, Distributions).
+
+License
+-------
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program. If not, see <https://www.gnu.org/licenses/>.
+
+Author: Abbas El Hachem
+Institution: Bundesanstalt für Wasserbau | BAW
+Copyright: (c) 2025, Bundesanstalt für Wasserbau | BAW
 """
 
-__author__ = "Abbas El Hachem"
-__institution__ = ('Bundesanstalt für Wasserbau | BAW'
-                   'Hydraulic Engineering in Inland Areas')
-__copyright__ = ('GNU General Public License 3')
 __version__ = 0.1
 __last_update__ = '15.12.2025'
 
