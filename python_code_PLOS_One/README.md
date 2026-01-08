@@ -12,7 +12,7 @@ The model uses a Long Short-Term Memory (LSTM) network to process sequential dat
 ## Project Structure
 
 ```text
-├── train_elam_lstm.py   # Main training script
+├── Train_ELAM_LSTM.py   # Main training script
 ├── requirements.txt     # Python dependencies
 ├── data/                # Data directory (must be created by user)
 │   └── Tracks_Versuche_A_mit_CFD.csv # Fish tracking data
