@@ -1,6 +1,6 @@
 # Fish Movement Prediction: ELAM & ELAM-LSTM
 
-This repository contains two distinct approaches for predicting fish swimming behavior in response to complex flow fields, developed at the **Bundesanstalt für Wasserbau (BAW)**.
+This repository contains two distinct approaches for predicting fish swimming movement in response to complex flow fields, developed at the **Bundesanstalt für Wasserbau (BAW)**.
 
 ---
 
