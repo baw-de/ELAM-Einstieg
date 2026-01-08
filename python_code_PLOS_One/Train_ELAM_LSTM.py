@@ -17,7 +17,6 @@ __author__ = "Abbas El Hachem"
 __institution__ = ('Bundesanstalt für Wasserbau | BAW'
                    'Hydraulic Engineering in Inland Areas')
 __copyright__ = ('GNU General Public License 3')
-__email__ = "abbas.el_hachem@baw.de"
 __version__ = 0.1
 __last_update__ = '15.12.2025'
 
