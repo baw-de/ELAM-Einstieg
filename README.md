@@ -12,6 +12,7 @@ The repository is organized into two primary modules representing Modeling upstr
 The **Eulerian-Lagrangian-agent method (ELAM) ** folder.
 * **Methodology**: Implements a rule-based system where fish movement is simulated based on hydraulic stimuli.
 * **Logic**: Decisions are driven by predefined behavioral rules and biological thresholds in response to environmental gradients.
+  
 See the PhD of David Gisen for a complete description of the setup and goals: 
 Modeling upstream fish migration in small-scale using the Eulerian-Lagrangian-agent method (ELAM) [https://hdl.handle.net/20.500.11970/105158]
 
