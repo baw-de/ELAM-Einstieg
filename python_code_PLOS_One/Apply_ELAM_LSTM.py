@@ -305,7 +305,7 @@ def plot_static_tracks(df_xtracks, df_ytracks, df_uswim, df_vswim, in_df_flow_fi
 def main():
     
     # --- PATH DEFINITIONS ---
-    main_proj_path = Path(r"C:\Users\el_hachem\Desktop\ELAM_LSTM")
+    main_proj_path = Path(r"")
     out_path = main_proj_path / r"results_test"
     out_path.mkdir(parents=True, exist_ok=True)
     
@@ -314,7 +314,6 @@ def main():
     
     path_df_flow_field = (main_proj_path / r"data\2D_cut_0.265_DDES.csv")
     path_ddes = main_proj_path / r"data\DDES_fields"
-    path_ddes = r"V:\w1\11_FuE\02_Auffindbarkeit\B3953.01.04.70014_ELAM_Einstieg\02_data\von_Lisa\V03_03_m16_ks0.001_uw0.84_DDES"
     path_norm = main_proj_path / r'data\norm_ELAM_input.csv'
     model_path = main_proj_path / r'results/lstm_seq_model__uvUk_rans.pt'
     
@@ -533,3 +532,4 @@ def main():
 if __name__ == '__main__':
     main()
 # =============================================================================
+
