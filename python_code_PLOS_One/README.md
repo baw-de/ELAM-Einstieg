@@ -1,6 +1,6 @@
 # ELAM-LSTM: Fish Movement Prediction
 
-This repository contains the implementation of **ELAM-LSTM**, a deep learning model designed to predict fish swimming behavior ($u_{swim}$, $v_{swim}$) based on flow field features and historical movement data.
+This repository contains the implementation of **ELAM-LSTM**, a deep learning model designed to predict fish swimming components ($u_{swim}$, $v_{swim}$) based on flow field features and historical movement data.
 
 ## Overview
 
