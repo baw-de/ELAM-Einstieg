@@ -27,7 +27,24 @@ $$xy_{t+1} = xy_t + (V_{swim} + V_{flow}) \times \Delta t$$
 
 ```text
 ├── Train_ELAM_LSTM.py   # Main training script
+├── Apply_ELAM_LSTM.py   # Main running script
 ├── requirements.txt     # Python dependencies
 ├── data/                # Data directory (must be created by user)
 │   └── Tracks_Versuche_A_mit_CFD.csv # Fish tracking data
 └── results/             # Output directory (automatically created)
+
+## Requirements
+
+The following Python packages are required:
+* `torch` (PyTorch)
+* `numpy`
+* `pandas`
+* `scipy` (for KDTree)
+* `shapely` & `pyshp` (for geometry handling)
+* `matplotlib` & `bokeh` (for visualization)
+* `imageio` & `tqdm` (for GIF generation and progress bars)
+
+---
+
+## License
+Distributed under the **GNU General Public License 3**.
