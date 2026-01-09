@@ -429,7 +429,7 @@ def main():
                     dtype=torch.float32).to(device)
                 
                 # Predict 
-                model.train() # to include randomness dropout
+                # model.train() # to include randomness dropout
                 output, _ = model(current_input.unsqueeze(1)) 
                 output = output.cpu().numpy().squeeze(1)
 
@@ -532,4 +532,5 @@ def main():
 if __name__ == '__main__':
     main()
 # =============================================================================
+
 
