@@ -20,7 +20,7 @@ The trained model is applied to generate agent tracks:
 
 * **. Integration**: The position of each agent is updated using the formula:
 $$xy_{t+1} = xy_t + (V_{swim} + V_{flow}) \times \Delta t$$
-Where $\Delta t$ is matched to the CFD time step (approx. $1/19$ seconds).
+
 
 ---
 ## Project Structure
